@@ -4,8 +4,6 @@ Escreva um programa em Java que recebe como parâmetros da linha de comando as d
 
 Lembre-se de usar as seguintes boas práticas de programação:
 
-Bons nomes para classes, métodos e variáveis.
-
-Evitar repetição de código.
-
-Organizar o código em diferentes métodos curtos (<5 a 10 linhas)
+- Bons nomes para classes, métodos e variáveis.
+- Evitar repetição de código.
+- Organizar o código em diferentes métodos curtos (<5 a 10 linhas)
