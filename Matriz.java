@@ -51,10 +51,13 @@ class Matriz {
 
         Scanner sc = new Scanner(System.in);
         double[][] A = leMatriz(num_linhas_A, num_cols_A, sc);
+        System.out.println("Matriz A:");
         exibeMatriz(A);
         double[][] B = leMatriz(num_linhas_B, num_cols_B, sc);
+        System.out.println("Matriz B:");
         exibeMatriz(B);
         double [][] C = matmult(A, B);
+        System.out.println("Matriz C:");
         exibeMatriz(C);
         
 
